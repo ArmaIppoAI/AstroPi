@@ -58,4 +58,6 @@ python accelerazione.py
 
 ## Conclusioni
 
+
+Attraverso la nostra analisi abbiamo scoperto che la navicella subiva delle forte accellerazioni dovute al accensione dei motori.
 Il progetto AstroPi - Analisi delle Variazioni di Accelerazione offre agli studenti l'opportunità di esplorare l'ambiente spaziale e applicare conoscenze di programmazione Python per analizzare dati scientifici. Questa esperienza permette di sviluppare competenze nel campo della scienza, della tecnologia, dell'ingegneria e della matematica (STEM) e di approfondire la comprensione delle applicazioni pratiche della programmazione nel contesto dell'esplorazione spaziale.
